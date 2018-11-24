@@ -4,15 +4,15 @@ the first repository
 test some expressions of markdown for
 GitHub readme
 
-*first
+* first
   USA
   Japan
   Italia
-*second
+* second
   Chocolate
   Cokkie
   Pudding
-*third
+* third
   dog
   cat
   rabit
